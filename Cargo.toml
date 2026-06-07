@@ -1,0 +1,11 @@
+[package]
+name = "network-flow"
+version = "0.1.0"
+edition = "2021"
+description = "Max flow (Ford-Fulkerson), min cut, residual graphs, and multi-commodity flow for network optimization"
+license = "MIT"
+repository = "https://github.com/SuperInstance/network-flow"
+keywords = ["max-flow", "min-cut", "ford-fulkerson", "network", "math"]
+categories = ["mathematics", "algorithms"]
+
+[dependencies]
